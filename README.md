@@ -1,7 +1,7 @@
 
+### This is Sampath. I am a Cloud Data Engineer. 
 <br/>
-
-### This is Sampath. I am a Cloud Data Engineer. Although I primarily work on data and it's possibilities both on on-premise and cloud, My interest lies in creating efficient software engineering solutions irrespective of the tech stack. I love to write code. <br/><br/>
+Although I primarily work on data and it's possibilities both on on-premise and cloud, My interest lies in creating efficient software engineering solutions irrespective of the tech stack. I love to write code. <br/><br/>
 
 ### Below are some of my projects. Please feel free to take a look 👋
 <br/>
@@ -30,3 +30,21 @@
 
 <br/>
 Thank you for your time. 
+
+
+	
+
+<!--
+**srivatsan88/srivatsan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
