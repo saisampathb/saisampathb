@@ -11,7 +11,7 @@ Although I primarily work on data and it's possibilities both on on-premise and 
 
 <tr><td><b>Button Click Resource Creation </b></td> <td><a href="https://sampathcodes.com/agw_post.html" target="_blank">https://sampathcodes.com/agw_post.html</a></td><td><a href="https://github.com/saisampathb/cloud-utils/tree/main/aws-button-click-resource-creation" target="_blank">Button Click Resource Cretion Repo</a></td></tr>
 
-<tr><td><b>Cloud Agnostic Open Source Data Pipeline</b></td> <td><a href="https://sampathcodes.com:8080/nifi" target="_blank">https://sampathcodes.com:8080/nifi ( *Bring it up on request )</a></td><td><a href="https://github.com/saisampathb/aws-nifi-data-central/blob/main/docker" target="_blank">AWS ECS-NIFI-Data Pipeline</a></td></tr>
+<tr><td><b>Cloud Agnostic Open Source Data Pipeline</b></td> <td><a href="http://cloudconnifi.sampathcodes.com:8080/nifi/" target="_blank">http://cloudconnifi.sampathcodes.com:8080/nifi/ ( *Bring it up on request )</a></td><td><a href="https://github.com/saisampathb/aws-nifi-data-central/blob/main/docker" target="_blank">AWS ECS-NIFI-Data Pipeline</a></td></tr>
 
 <tr><td><b>Tradenetwork using Block Chain</b></td> <td><a href="#" target="_blank"></a></td><td><a href="https://github.com/saisampathb/trade-network-using-blockchain" target="_blank">BlockChain-Trade-Network</a></td></tr>
 
